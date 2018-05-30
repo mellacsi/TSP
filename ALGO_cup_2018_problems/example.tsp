@@ -1,0 +1,12 @@
+NAME : example
+COMMENT : 4-city problem
+TYPE : TSP
+DIMENSION : 4
+EDGE_WEIGHT_TYPE : example
+BEST_KNOWN : -1
+NODE_COORD_SECTION
+1 0 0
+2 10 0
+3 10 1
+4 0 9
+EOF
